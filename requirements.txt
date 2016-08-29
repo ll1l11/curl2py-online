@@ -1,0 +1,3 @@
+Flask
+-e git+https://github.com/codeif/curl2py.git#egg=curl2py
+
